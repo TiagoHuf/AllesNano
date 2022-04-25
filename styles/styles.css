@@ -68,7 +68,16 @@ h4 {
   font-size: 50px;
   font: '400 15px/1.8 "Lato", sans-serif';
   color: #ddd;
-  text-align: center;
+  text-align: left;
+  background-color: #13294B;
+  padding: 4%;
+}
+
+.biopark2 {
+  font-size: 50px;
+  font: '400 15px/1.8 "Lato", sans-serif';
+  color: #ddd;
+  text-align: right;
   background-color: #13294B;
   padding: 4%;
 }
